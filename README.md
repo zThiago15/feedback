@@ -3,7 +3,7 @@ Aplicação para dar e receber feedbacks por meio de Widgets.
 
 ## Tecnologias
 1. Linguagens
-HTML, CSS, JavaScript, React.js, TypeScript, Tailwind CSS
+HTML, CSS, JavaScript, React.js, TypeScript, Tailwind CSS, Headless UI
 
 
 ## Instalação e execução do projeto
