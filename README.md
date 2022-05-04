@@ -1,5 +1,6 @@
 ## Projeto
 Aplicação para dar e receber feedbacks por meio de Widgets.
+É possível selecionar o tipo de feedback(Problema, Ideia, Outro) e tirar uma screenshot da tela para enviar.
 
 ## Tecnologias
 1. Linguagens
